@@ -9,8 +9,8 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-image: url(https://images.alphacoders.com/132/1321760.jpeg);
-  background-size: cover;
+  background-color: rgb(127, 127, 238);
+  background-size: auto;
   background-position: center;
   overflow: hidden;
 }
